@@ -1,0 +1,1 @@
+double c_sum_of_squares(double * ary, int ary_size, int block_size, double y0);
